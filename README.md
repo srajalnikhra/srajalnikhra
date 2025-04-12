@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! I'm Srajal Nikhra🚀h</h1>
+<h1 align="center">Greetings! I'm Srajal Nikhra🚀</h1>
 <h3 align="center">Currently Seeking Internship | Golang Backend Developer | Web Full Stack Developer
 </h3>
 
