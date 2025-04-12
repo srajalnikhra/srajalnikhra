@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning *Golang , MERN Developer, Data Structures and Algorithm and CS Core Subjects.*
+- 🌱 I’m currently learning *Golang , MERN Development, Data Structures and Algorithm and CS Core Subjects.*
 
 - 🤝 I’m looking for help with *Software Developer Engineer Job.*
 
