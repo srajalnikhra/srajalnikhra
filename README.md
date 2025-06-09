@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Srajal Nikhra🚀</h1>
-<h3 align="center">Currently Seeking Internship | Golang Backend Developer | Full Stack Web 
+<h3 align="center">Currently Seeking Internship | Golang Backend Developer | Full Stack Web Developer
 </h3>
 
 
