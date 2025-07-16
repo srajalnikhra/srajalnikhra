@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with *Software Developer Engineer Job.*
 
-- 💬 Ask me about *DSA, Python, Golang, Html, CSS, React, JavaScript.*
+- 💬 Ask me about *DSA, Golang, Python, Html, CSS, React, JavaScript.*
 
 - 📫 From here, you can reach to me - *srajalnikhra@gmail.com*
 
