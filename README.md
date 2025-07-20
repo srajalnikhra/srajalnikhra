@@ -62,5 +62,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+  <a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/ios-filled/50/000000/book.png" alt="dsa" width="40" height="40"/>
+</a>
+
 </p>
 
