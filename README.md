@@ -70,14 +70,24 @@ CGPA: **7.45**
 <h3 align="center">🤝 Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/srajal-nikhra-2ba563291/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/srajal-nikhra-2ba563291/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:srajalnikhra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:srajalnikhra@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/srajalnikhra">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+
+<a href="https://github.com/srajalnikhra" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/srajalnikhra/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/srajalnikhra" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </p>
 
@@ -86,9 +96,11 @@ CGPA: **7.45**
 <h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,javascript,postgres,redis,mongodb,git,docker,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=go,python,javascript,postgres,redis,mongodb,git,docker,react,nodejs,html,css&perline=6" />
 </p>
 
 ---
 
-<p align="center">⭐ <b>I build scalable backend systems and solve real-world engineering problems using Golang.</b></p>
+<p align="center">
+⭐ <b>I build scalable backend systems and solve real-world engineering problems using Golang.</b>
+</p>
