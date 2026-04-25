@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srajal Nikhra</h1>
-<h3 align="center">Backend Developer | Golang | Scalable Systems | APIs | Problem Solver</h3>
+<h1 align="center">Hi, I'm Srajal Nikhra 🚀</h1>
+<h3 align="center">Backend Developer | Golang | Scalable Systems | APIs | Problem Solver | Full Stack Developer</h3>
 
 ---
 
