@@ -67,37 +67,30 @@ CGPA: **7.45**
 
 ---
 
-<h3 align="left">🤝 Connect with me</h3>
+<h3 align="center">🤝 Connect with me</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/srajal-nikhra-2ba563291/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:srajalnikhra@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/srajalnikhra" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<p align="left">
-<a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>&nbsp;&nbsp;
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,python,javascript,postgres,redis,mongodb,git,docker,react,nodejs,html,css&perline=6" />
 </p>
 
 ---
 
-⭐ **"I build scalable backend systems and solve real-world engineering problems using Golang."**
+<p align="center">
+⭐ <b>I build scalable backend systems and solve real-world engineering problems using Golang.</b>
+</p>
